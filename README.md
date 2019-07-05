@@ -1,1 +1,1 @@
-# Automatic-recognition-of-lung-opacities-region-on-chest-radiographs.
+# Automatic-recognition-of-lung-opacities-region-on-chest-radiographs
