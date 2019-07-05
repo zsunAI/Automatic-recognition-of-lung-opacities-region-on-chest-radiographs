@@ -3,7 +3,7 @@
 
   Using the open RSNA pneumonia challenge data set, 550 images were evaluated with the proposed framework. The correct detection rate of opacities region was 96.2%, and the intersection-over-union was 0.762. At the same time, compared with the existing VGGNet and GoogLeNet, the ResNet-23 framework used in this paper can produce better recognition performance with simpler network complexity and solve the problem of recognition of opaque areas in CXR images.
  
-![image](https://github.com/1579477793/Automatic-recognition-of-lung-opacities-region-on-chest-radiographs/blob/master/result/a.jpg)
+![image](https://github.com/1579477793/Automatic-recognition-of-lung-opacities-region-on-chest-radiographs/blob/master/result/b1.jpg)
 
 ![image](https://github.com/1579477793/Automatic-recognition-of-lung-opacities-region-on-chest-radiographs/blob/master/result/c.jpg)
 
